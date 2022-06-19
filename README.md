@@ -1,3 +1,5 @@
+# This is a practice project originated from Web Dev Simplified YouTube Channel (https://www.youtube.com/watch?v=DgRrrOt0Vr8). I do not own any credit to this project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
